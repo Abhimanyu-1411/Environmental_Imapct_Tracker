@@ -62,3 +62,7 @@ For any queries or further information, please contact:
 ---
 
 Thank you for your interest in the Environmental Impact Tracking project. Together, we can make a significant impact on our planet's future.
+
+
+![image](https://github.com/user-attachments/assets/1ed0afe5-667c-4858-8c30-1772b8b97ef5)
+
