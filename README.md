@@ -1,6 +1,8 @@
-# Environmental Impact Tracking
+# EcoChain
 
-![image](https://github.com/user-attachments/assets/34828a96-b84b-4458-8acd-4e4ddd229278)
+![image](https://github.com/user-attachments/assets/cbe409c8-ebad-49f9-ba68-66b383eefc35)
+
+
 
 ## Vision
 The Environmental Impact Tracking project aims to provide a transparent and immutable platform for companies to record, track, and verify their environmental impact data. By leveraging blockchain technology, we ensure data integrity and incentivize companies to reduce their carbon footprint through a token reward system.
@@ -61,7 +63,7 @@ For any queries or further information, please contact:
 
 ---
 
-Thank you for your interest in the Environmental Impact Tracking project. Together, we can make a significant impact on our planet's future.
+Thank you for your interest in the EcoChain project. Together, we can make a significant impact on our planet's future.
 
 
 ![image](https://github.com/user-attachments/assets/1ed0afe5-667c-4858-8c30-1772b8b97ef5)
